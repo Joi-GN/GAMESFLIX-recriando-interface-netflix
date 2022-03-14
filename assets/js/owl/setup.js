@@ -23,11 +23,11 @@ function notification(){
     alert("Sem notificações");
 }
 
-const lighModeClass = 'light-mode';
+const changeModeClass = 'change-mode';
 const body = document.getElementsByTagName('body')[0];
 const footer = document.getElementsByTagName('footer')[0];
 
 function changeMode(){
-    body.classList.toggle(lighModeClass);
-    footer.classList.toggle(lighModeClass);
+    body.classList.toggle(changeModeClass);
+    footer.classList.toggle(changeModeClass);
 }

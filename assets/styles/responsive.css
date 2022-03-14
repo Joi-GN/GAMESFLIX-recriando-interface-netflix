@@ -1,0 +1,118 @@
+@media screen and (max-width: 900px){
+    #logo{
+        font-size: 40px;
+    }
+
+    nav{
+        font-size: 12px;
+    }
+
+    nav a{
+        margin-left: 20px;
+    }
+
+    div .right{
+        font-size: 20px;
+    }
+
+    .main-item{
+        background: linear-gradient(90deg, rgba(20,20,20,1) 13%, rgba(20,20,20,0.9609668174486482) 36%, rgba(20,20,20,0.7109668174486481) 55%, rgba(20,20,20,0.4469218736284235) 100%), url("/./assets/img/main-img-mini.jpg");
+        background-size: cover;
+    }
+
+    .item-title{
+        font-size: 30px;
+    }
+
+    .descrition{
+        font-size: 11px;
+    }
+
+    .btn{
+        font-size: 12px;
+    }
+
+    .category{
+        font-size: 15px;
+    }
+
+    footer p{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 650px){
+    #logo{
+        font-size: 37px;
+    }
+
+    nav{
+        font-size: 12px;
+    }
+
+    nav a{
+        margin-left: 16px;
+    }
+
+    div .right{
+        font-size: 15px;
+    }
+
+    .item-title{
+        font-size: 25px;
+    }
+
+    .descrition{
+        font-size: 12px;
+    }
+
+    .btn{
+        font-size: 12px;
+    }
+
+    .category{
+        font-size: 14px;
+    }
+
+    footer p{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    #logo{
+        font-size: 35px;
+    }
+
+    nav{
+        font-size: 11px;
+    }
+
+    nav a{
+        margin-left: 12px;
+    }
+
+    div .right{
+        font-size: 10px;
+    }
+
+    .item-title{
+        font-size: 24px;
+    }
+
+    .descrition{
+        font-size: 9px;
+    }
+
+    .btn{
+        font-size: 10px;
+    }
+
+    .category{
+        font-size: 11px;
+    }
+
+    footer p{
+        font-size: 11px;
+    }
+}
